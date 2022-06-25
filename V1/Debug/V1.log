@@ -1,8 +1,0 @@
-﻿  V1Dlg.cpp
-C:\Users\양정우\Desktop\2022 1학기\영상처리\영상처리HW_3 2018253031 양정우\V1\V1\V1Dlg.cpp(465,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\양정우\Desktop\2022 1학기\영상처리\영상처리HW_3 2018253031 양정우\V1\V1\V1Dlg.cpp(466,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\양정우\Desktop\2022 1학기\영상처리\영상처리HW_3 2018253031 양정우\V1\V1\V1Dlg.cpp(480,17): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\양정우\Desktop\2022 1학기\영상처리\영상처리HW_3 2018253031 양정우\V1\V1\V1Dlg.cpp(481,27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\양정우\Desktop\2022 1학기\영상처리\영상처리HW_3 2018253031 양정우\V1\V1\V1Dlg.cpp(554,72): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\양정우\Desktop\2022 1학기\영상처리\영상처리HW_3 2018253031 양정우\V1\V1\V1Dlg.cpp(572,5): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  V1.vcxproj -> C:\Users\양정우\Desktop\2022 1학기\영상처리\영상처리HW_3 2018253031 양정우\V1\Debug\V1.exe
